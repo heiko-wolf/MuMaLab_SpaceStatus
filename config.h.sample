@@ -10,7 +10,7 @@ char mqtt_broker[40] =  "broker.somewhere.com";
 char mqtt_port[5] = "1883";
 char mqtt_user[20] =  "uid";
 char mqtt_pass[20] =  "pwd"; 
-String topic = "mumalab/room/status";
+String topic = "your topic";
 
 String deviceString;
 
